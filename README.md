@@ -3,5 +3,5 @@ Learning demo exercise
 
 Menu for restaraunt
 
--> Veg
--> Non - Veg
+-> Veg  -- fried rice 
+-> Non - Veg -- biriyani
